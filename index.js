@@ -17,7 +17,7 @@ var display = function (projection_data){
                 .style("opacity", 0);
 
 
-    d3.json("region.json", function(error, data) {
+    d3.json("saudiarabia/region.json", function(error, data) {
         if (error) return console.error(error);
 
         var subunits = topojson.feature(data, data.objects.countries)
@@ -43,7 +43,7 @@ var display = function (projection_data){
             .datum(subunits)
             .attr("d", path);
 
-        d3.json("population.json", function(error, population) {
+        d3.json("saudiarabia/population.json", function(error, population) {
           console.log("here");
             var color = d3.scaleThreshold()
                 .domain([1, 2, 4, 7, 9].map(function(x){return x*1000000;}))
