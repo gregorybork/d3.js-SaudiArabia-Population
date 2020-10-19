@@ -1,17 +1,17 @@
-# Ruby on Rails Ecommerce App
+# Population Data Visualition / Saudi Arabia
 
-Uses the Ruby on Rails framework to create a highly functional Ecommerce website
+Uses the D3.js v5 JavaScript library to GeoMap Saudi Arabia
 
 ### [View Live](http://www.unofficialbookstore.com/)
 
 ## Description
 
-The goal of this project was to help elevate school spirit at the University of California, Santa Cruz by creating more apparel and allowing others to submit ideas/designs to be added to the store.
+I acquired the ESRI Shapefile from https://gadm.org/download_country_v3.html to convert to Topojson file using https://mapshaper.org/. I then found the most recent population data associeted with the subregions of the Saudi Arabia. I visualized the country data with subregions mapped to different colors based on population density. 
+
+The goal of this project was to learn D3.js and its powerful functionality to elaboratly display data.
 
 Users can:
-  - Make an account
-  - Upload image designs and descriptions
-  - Securely purchase from a variety of apparel 
+  - Hover over subregions to view 
 
 ## Demo
 
@@ -21,14 +21,7 @@ Users can:
 
 ## Technologies
 
-- Ruby on Rails
-- PostgreSQL
-- Carrierwave
-- Bootstrap
-- Devise
-- Stripe
-- AWS 
-- S3
+- D3.js
 - HTML
 - CSS
 - Javascript
