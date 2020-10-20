@@ -1,4 +1,4 @@
-# Population Data Visualition / Saudi Arabia
+# Population Data Visualization / Saudi Arabia
 
 Uses the D3.js v5 JavaScript library to GeoMap Saudi Arabia
 
