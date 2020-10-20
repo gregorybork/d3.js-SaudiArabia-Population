@@ -2,7 +2,6 @@
 
 Uses the D3.js v5 JavaScript library to GeoMap Saudi Arabia
 
-### [View Live](http://www.unofficialbookstore.com/)
 
 ## Description
 
@@ -13,7 +12,7 @@ The goal of this project was to learn D3.js and its powerful functionality to el
 Users can:
   - Hover over subregions to view 
 
-## Demo
+## Image
 
 ![bookstore](https://user-images.githubusercontent.com/46305741/96518493-e29a9600-121f-11eb-8333-ce5dca23824d.gif)
 
