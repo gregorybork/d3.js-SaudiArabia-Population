@@ -14,9 +14,7 @@ Users can:
 
 ## Image
 
-![bookstore](https://user-images.githubusercontent.com/46305741/96518493-e29a9600-121f-11eb-8333-ce5dca23824d.gif)
-
-
+![Screen Shot 2020-10-19 at 8 52 54 PM](https://user-images.githubusercontent.com/46305741/96538351-340d4a00-124d-11eb-90c3-543d026cd559.png)
 
 ## Technologies
 
